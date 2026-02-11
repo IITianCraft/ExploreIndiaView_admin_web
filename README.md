@@ -1,6 +1,6 @@
 # Explore India View - Admin Dashboard
 
-A premium administrative platform for managing travel bookings, tour packages, and user interactions.
+A premium administrative platform for managing travel bookings, tour packages, and user interactions of Explore India View.
 
 ## 🚀 Tech Stack
 
